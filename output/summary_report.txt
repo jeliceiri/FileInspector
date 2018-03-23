@@ -1,0 +1,6 @@
+Application Name: FileInputOutput and Properties
+Author: Jill Eliceiri
+Email: jeliceiri@gmail.com
+Input file: /Users/zenwarrior/IdeaProjects/FileInspector/bigFile.txt
+Analyzed on: Fri Mar 23 07:42:20 CDT 2018
+Total token count: 4468588
